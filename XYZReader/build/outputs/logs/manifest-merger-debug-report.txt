@@ -31,8 +31,7 @@ ADDED from /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/src/m
 		ADDED from /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
 ADDED from /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v13:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
@@ -40,7 +39,14 @@ MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fsheykh
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/AndroidManifest.xml:22:5-20
@@ -110,8 +116,7 @@ ADDED from /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/src/m
 		ADDED from /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
@@ -119,7 +124,15 @@ MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fsheykh
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/fsheykhi/Documents/Android Workspace/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
